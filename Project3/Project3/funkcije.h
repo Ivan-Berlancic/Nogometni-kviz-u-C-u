@@ -3,5 +3,6 @@
 
 void help();
 void generiranje_pitanja();
+void shuffle(int* polje);
 
 #endif // HEADER_H
