@@ -22,3 +22,17 @@ void help()
 	printf("\n    ******************************************************************************");
 	
 }
+
+
+void shuffle(int* polje){
+
+for (int i = 0; i < 10; i++) {    
+    int temp = *(polje + i);
+    int randomIndeks = 1 + (float)rand()/RAND_MAX*(20-1);
+
+    *(polje + i) = *(polje + randomIndeks);
+    *(polje + randomIndeks) = temp;
+}
+
+}
+
