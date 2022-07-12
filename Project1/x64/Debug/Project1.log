@@ -1,0 +1,17 @@
+﻿  funkcije.c
+C:\Users\Ivan\source\repos\Project1\Project1\funkcije.c(47,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ivan\source\repos\Project1\Project1\funkcije.c(64,11): warning C4098: 'rezultat': 'void' function returning a value
+  main.c
+C:\Users\Ivan\source\repos\Project1\Project1\main.c(15,2): warning C4013: 'srand' undefined; assuming extern returning int
+C:\Users\Ivan\source\repos\Project1\Project1\main.c(23,2): warning C4013: 'system' undefined; assuming extern returning int
+C:\Users\Ivan\source\repos\Project1\Project1\main.c(48,3): warning C4013: 'gets' undefined; assuming extern returning int
+  pitanja.c
+C:\Users\Ivan\source\repos\Project1\Project1\pitanja.c(25,7): warning C4013: 'toupper' undefined; assuming extern returning int
+C:\Users\Ivan\source\repos\Project1\Project1\pitanja.c(25,15): warning C4013: '_getch' undefined; assuming extern returning int
+C:\Users\Ivan\source\repos\Project1\Project1\pitanja.c(29,50): warning C4013: 'rezultat' undefined; assuming extern returning int
+C:\Users\Ivan\source\repos\Project1\Project1\pitanja.c(286,10): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1250)
+C:\Users\Ivan\source\repos\Project1\Project1\pitanja.c(465,11): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1250)
+C:\Users\Ivan\source\repos\Project1\Project1\pitanja.c(471,10): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1250)
+  Generating Code...
+C:\Users\Ivan\source\repos\Project1\Project1\pitanja.c(495): warning C4715: 'generiranje_pitanja': not all control paths return a value
+  Project1.vcxproj -> C:\Users\Ivan\source\repos\Project1\x64\Debug\Project1.exe
